@@ -1,6 +1,6 @@
 The MPI3.jl package is licensed under the Simplified "2-clause" BSD License:
 
-> Copyright (c) 2017: schnaitterm.
+> Copyright (c) 2017: JuliaHPC. <https://github.com/JuliaHPC>
 > All rights reserved.
 >
 > Redistribution and use in source and binary forms, with or without
